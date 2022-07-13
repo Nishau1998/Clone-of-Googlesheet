@@ -1,0 +1,31 @@
+{
+  "tasks": [
+    {
+      "userName": "suma",
+      "taskName": "react",
+      "taskDetail": "react project on ",
+      "startDate": "2022-07-06",
+      "endDate": "2022-07-20",
+      "status": "Ongoing",
+      "id": 5
+    },
+    {
+      "userName": "nisha",
+      "taskName": "html",
+      "taskDetail": "front end development",
+      "startDate": "2022-07-02",
+      "endDate": "2022-07-08",
+      "status": "Completed",
+      "id": 6
+    },
+    {
+      "userName": "sudha",
+      "taskName": "css",
+      "taskDetail": "styling of web development",
+      "startDate": "2022-07-14",
+      "endDate": "2022-07-22",
+      "status": "Pending",
+      "id": 7
+    }
+  ]
+}
